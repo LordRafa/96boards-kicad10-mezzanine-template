@@ -841,7 +841,6 @@
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [
-      "96boards-kicad10-mezzanine-template-rescue"
     ],
     "meta": {
       "version": 1
